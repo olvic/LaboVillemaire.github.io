@@ -22,7 +22,7 @@ navbar:
       href: mailto:olivier.villemaire-cote@sbf.ulaval.ca                    # CHANGE HERE 
     - text: "CEF"
       icon: logo_cef.gif
-      href: https://github.com/LaboVillemaire     # CHANGE HERE 
+      href: https://www.cef-cfr.ca/pmwiki.php?n=Membres.OlivierVillemaireCote    # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
