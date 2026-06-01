@@ -6,7 +6,7 @@ Vous trouverez ici des liens utiles pour la gestion des dossiers, les finances, 
 
 ### Accueil
 À votre arrivée au labo, assurez-vous de bien consulter toute l'information sur ce site.
-*Remplissez ce fichier et envoyez-moi le par courriel: [formulaire consentement CRSNG](files/F100D_f.pdf)
+*Remplissez ce fichier et envoyez-moi le par courriel: [formulaire consentement CRSNG](files/F100D.pdf)
 
 ### Informatique
 
@@ -25,4 +25,5 @@ Vous avez accès à une panoplie d'outils en tant qu'étudiants UL, notamment la
 ### EDI
 
 ### Vie de labo
+
 
