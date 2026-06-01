@@ -1,5 +1,5 @@
 name: "Labo Villemaire"                                # CHANGE HERE 
-output_dir: "."
+output_dir: "docs" #changes from "."
 navbar:
   title: "Labo Villemaire"                             # CHANGE HERE 
   type: inverse
