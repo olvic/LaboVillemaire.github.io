@@ -8,11 +8,11 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "Le labo"
-      icon: fa-user 
+      icon: fa-user-group 
       href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
+    - text: "Ressources"
+      icon: fa-screwdriver-wrench
+      href: ressources.html
 #    - text: "Blog"
 #      icon: fa-rss
 #      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
@@ -20,7 +20,7 @@ navbar:
     - text: "Me contacter"
       icon: fa-envelope-o
       href: mailto:olivier.villemaire-cote@sbf.ulaval.ca                    # CHANGE HERE 
-    - text: "CEF"
+    - text: "Centre d'étude de la forêt"
       icon: logo_cef.gif
       href: https://www.cef-cfr.ca/pmwiki.php?n=Membres.OlivierVillemaireCote    # CHANGE HERE 
 output:

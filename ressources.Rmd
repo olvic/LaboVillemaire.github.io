@@ -1,0 +1,28 @@
+---
+title: "Ressources"
+---
+
+Vous trouverez ici des liens utiles pour la gestion des dossiers, les finances, le fonctionnement du labo, etc.
+
+### Accueil
+À votre arrivée au labo, assurez-vous de bien consulter toute l'information sur ce site.
+*Remplissez ce fichier et envoyez-moi le par courriel: [formulaire consentement CRSNG](files/F100D_f.pdf)
+
+### Informatique
+
+Vous avez accès à une panoplie d'outils en tant qu'étudiants UL, notamment la suite Microsoft 365 sur laquelle vous avez 1To d'espace de stockage.
+
+*Base de connaissance du SCRIPT de la FFGG: laboratoires informatiques, accès imprimantes, soutien TI, Microsoft 365, etc.: [SCRIPT](https://www.script.ulaval.ca/base-de-connaissance)
+
+### Gestion des données
+
+### Analyses
+
+### Finances
+
+### Dépenses
+
+### EDI
+
+### Vie de labo
+
